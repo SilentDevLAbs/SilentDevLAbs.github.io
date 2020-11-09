@@ -55,6 +55,7 @@ Boot menu where you can access the Startup Settings, Safe Mode, and various othe
 
 ### -ADB And FastBoot (Android Only)
 Does quick work of long command lines to use adb, also has CastnControl in the program known as ScreenShare and is able to install Apks to the device
+via the install button
 
 #### -Wired
 The Wired ADB allows fastboot to flash roms, kernels, Recovery image files and unlock and lock OEM along with still being able to install selected application which can be easily selected by the fileBrowser() interface and you can backup everything within the Storage Directory, you can ScreenRecord and capture Screenshots and they get transfered onto your pc inside the programs folder then AndroidCapture/Recording and you can also control and see your screen all while being able to use your keyboard to type the arrow keys to move around gui etc...
