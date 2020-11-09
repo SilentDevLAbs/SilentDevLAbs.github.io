@@ -1,6 +1,7 @@
 # Welcome To The Help Page of Windows Master
 
 # Disclaimer: if a button is red its highly suggested to leave them alone unless you know what your doing and i am not responsible for any damage created by red buttons
+all buttons in Windows Activator are Safe i just needed to colour seperate...
 
 # [Project](https://github.com/SilentDevLAbs/WindowsMaster)
 
@@ -75,3 +76,9 @@ NOTE: you must have adb debugging enabled on android device and connected to the
 Simple Click Office Activator
 Select the installed version
 And the Activation Should Start and be Done
+
+
+# Coming Soon
+-Android Emulator
+-Downloaders for spotify, youtube and soundcloud and a torrent download
+and much much more
