@@ -9,6 +9,8 @@
 # HOW TO USE
 I am only showing how to use the safe tools and Activators
 
+### Disclaimer: if a button is red its highly suggested to leave them alone unless you know what your doing and i am not responsible for any damage created by red buttons
+
 First you want to download and extract the program
 Secondly run the software as Administrator by right clicking on Windows Master.exe and clicking 'run as administrator'
 Then you Should see a screen like this:
