@@ -25,7 +25,8 @@ then click properties and you should see something like this:
 
 [image1](https://github.com/SilentDevLAbs/SilentDevLAbs.github.io/blob/main/Windows%20Version.png?raw=true)
 Under Windows Edition is what your looking for so for me it is "Windows 10 Professional"
-So i would choose the top Red Button and Click it and itwould start the activation proccess
+So i would choose the top Red Button and Click it and it would start the activation proccess
+[image1](https://github.com/SilentDevLAbs/SilentDevLAbs.github.io/blob/main/windows%20activator.png?raw=true)
 Click "Ok" to any of the pop ups
 Then windows Activation should be Complete if Done Correctly
 
