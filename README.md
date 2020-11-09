@@ -1,6 +1,8 @@
 # Welcome To The Help Page of Windows Master
 
-[Download Latest ZIP](https://github.com/SilentDevLAbs/WindowsMaster/releases/download/v3/Windows.Master.zip)
+# Download
+
+[Download Latest ZIP](https://github.com/SilentDevLAbs/WindowsMaster/releases/download/v3.5/Windows.Master.zip)
 
 # HOW TO USE
 I am only showing how to use the safe tools and Activators
